@@ -1,5 +1,15 @@
 {
- "version": 1,
- "updatedAt": "2026-11-06T22:43:19.265Z",
- "courses": []
+ "version": 2,
+ "updatedAt": "2026-11-06T22:44:28.357Z",
+ "courses": [
+  {
+   "id": "c_863x58",
+   "name": "المداواة الترميمية 3",
+   "university": "جامعة اللاذقية",
+   "year": "الرابعة",
+   "order": 1,
+   "hidden": false,
+   "lectures": []
+  }
+ ]
 }
