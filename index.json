@@ -1,6 +1,6 @@
 {
- "version": 4,
- "updatedAt": "2026-11-12T12:41:58.202Z",
+ "version": 5,
+ "updatedAt": "2026-11-12T12:43:19.690Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -31,7 +31,20 @@
    "year": "الرابعة",
    "order": 2,
    "hidden": false,
-   "lectures": []
+   "lectures": [
+    {
+     "id": "l_r7f75njb",
+     "title": "الاستمارة التشخيصية",
+     "type": "practical",
+     "order": 1,
+     "size": 1945178,
+     "rev": 1,
+     "keyId": "l_r7f75njb",
+     "path": "lectures/c_25ntty/l_r7f75njb.bin",
+     "hidden": false,
+     "addedAt": "2026-11-12T12:43:19.690Z"
+    }
+   ]
   }
  ]
 }
