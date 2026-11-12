@@ -1,6 +1,6 @@
 {
- "version": 3,
- "updatedAt": "2026-11-12T12:38:52.631Z",
+ "version": 4,
+ "updatedAt": "2026-11-12T12:41:58.202Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -23,6 +23,15 @@
      "addedAt": "2026-11-12T12:38:52.631Z"
     }
    ]
+  },
+  {
+   "id": "c_25ntty",
+   "name": "أمراض الفم 1",
+   "university": "جامعة اللاذقية",
+   "year": "الرابعة",
+   "order": 2,
+   "hidden": false,
+   "lectures": []
   }
  ]
 }
