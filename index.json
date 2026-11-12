@@ -1,6 +1,6 @@
 {
- "version": 11,
- "updatedAt": "2026-11-12T23:41:20.887Z",
+ "version": 12,
+ "updatedAt": "2026-11-12T23:41:48.043Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -66,7 +66,8 @@
      "hidden": false,
      "addedAt": "2026-11-12T13:29:24.891Z"
     }
-   ]
+   ],
+   "semester": "first"
   },
   {
    "id": "c_3xeq63",
