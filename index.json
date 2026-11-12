@@ -1,6 +1,6 @@
 {
- "version": 7,
- "updatedAt": "2026-11-12T13:29:24.891Z",
+ "version": 8,
+ "updatedAt": "2026-11-12T13:30:29.731Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -29,7 +29,7 @@
    "name": "أمراض الفم 1",
    "university": "جامعة اللاذقية",
    "year": "الرابعة",
-   "order": 2,
+   "order": 3,
    "hidden": false,
    "lectures": [
     {
@@ -51,7 +51,7 @@
    "name": "التعويضات المتحركة 2",
    "university": "جامعة اللاذقية",
    "year": "الخامسة",
-   "order": 3,
+   "order": 2,
    "hidden": false,
    "lectures": [
     {
