@@ -1,6 +1,6 @@
 {
- "version": 13,
- "updatedAt": "2026-11-12T23:41:55.866Z",
+ "version": 14,
+ "updatedAt": "2026-11-12T23:42:03.988Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -22,7 +22,8 @@
      "hidden": false,
      "addedAt": "2026-11-12T12:38:52.631Z"
     }
-   ]
+   ],
+   "semester": "first"
   },
   {
    "id": "c_25ntty",
