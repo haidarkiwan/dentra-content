@@ -1,6 +1,6 @@
 {
- "version": 5,
- "updatedAt": "2026-11-12T12:43:19.690Z",
+ "version": 6,
+ "updatedAt": "2026-11-12T13:28:31.056Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -45,6 +45,15 @@
      "addedAt": "2026-11-12T12:43:19.690Z"
     }
    ]
+  },
+  {
+   "id": "c_mtyd67",
+   "name": "التعويضات المتحركة 2",
+   "university": "جامعة اللاذقية",
+   "year": "الخامسة",
+   "order": 3,
+   "hidden": false,
+   "lectures": []
   }
  ]
 }
