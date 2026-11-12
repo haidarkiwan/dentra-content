@@ -1,6 +1,6 @@
 {
- "version": 10,
- "updatedAt": "2026-11-12T23:40:43.939Z",
+ "version": 11,
+ "updatedAt": "2026-11-12T23:41:20.887Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -67,6 +67,16 @@
      "addedAt": "2026-11-12T13:29:24.891Z"
     }
    ]
+  },
+  {
+   "id": "c_3xeq63",
+   "name": "التخدير والقلع 1",
+   "university": "جامعة اللاذقية",
+   "year": "الرابعة",
+   "semester": "first",
+   "order": 4,
+   "hidden": false,
+   "lectures": []
   }
  ]
 }
