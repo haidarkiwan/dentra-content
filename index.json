@@ -1,6 +1,6 @@
 {
- "version": 2,
- "updatedAt": "2026-11-06T22:44:28.357Z",
+ "version": 3,
+ "updatedAt": "2026-11-12T12:38:52.631Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -9,7 +9,20 @@
    "year": "الرابعة",
    "order": 1,
    "hidden": false,
-   "lectures": []
+   "lectures": [
+    {
+     "id": "l_54ifq47a",
+     "title": "أساسيات لارتباط ترميمات الراتنج المركب بالنسج السنية",
+     "type": "theory",
+     "order": 1,
+     "size": 710171,
+     "rev": 1,
+     "keyId": "l_54ifq47a",
+     "path": "lectures/c_863x58/l_54ifq47a.bin",
+     "hidden": false,
+     "addedAt": "2026-11-12T12:38:52.631Z"
+    }
+   ]
   }
  ]
 }
