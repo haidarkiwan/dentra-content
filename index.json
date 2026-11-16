@@ -1,6 +1,6 @@
 {
- "version": 15,
- "updatedAt": "2026-11-13T13:21:11.895Z",
+ "version": 16,
+ "updatedAt": "2026-11-16T13:57:50.919Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -55,6 +55,16 @@
    "year": "الرابعة",
    "semester": "first",
    "order": 4,
+   "hidden": false,
+   "lectures": []
+  },
+  {
+   "id": "c_vkmvke",
+   "name": "التقويم 1",
+   "university": "جامعة اللاذقية",
+   "year": "الرابعة",
+   "semester": "first",
+   "order": 5,
    "hidden": false,
    "lectures": []
   }
