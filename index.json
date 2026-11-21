@@ -1,6 +1,6 @@
 {
- "version": 21,
- "updatedAt": "2026-11-21T00:07:46.738Z",
+ "version": 22,
+ "updatedAt": "2026-11-21T00:08:40.968Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -108,7 +108,7 @@
      "rev": 1,
      "keyId": "l_dve9zcuu",
      "path": "lectures/c_hfi57v/l_dve9zcuu.bin",
-     "hidden": true,
+     "hidden": false,
      "addedAt": "2026-11-21T00:02:06.249Z",
      "format": "dlp",
      "meta": {
