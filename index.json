@@ -1,6 +1,6 @@
 {
- "version": 18,
- "updatedAt": "2026-11-20T23:47:51.912Z",
+ "version": 19,
+ "updatedAt": "2026-11-21T00:02:06.249Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -98,7 +98,29 @@
    "semester": "first",
    "order": 6,
    "hidden": false,
-   "lectures": []
+   "lectures": [
+    {
+     "id": "l_dve9zcuu",
+     "title": "أخذ العلاقة المركزية والتركيب على المطبق",
+     "type": "theory",
+     "order": 1,
+     "size": 498160,
+     "rev": 1,
+     "keyId": "l_dve9zcuu",
+     "path": "lectures/c_hfi57v/l_dve9zcuu.bin",
+     "hidden": true,
+     "addedAt": "2026-11-21T00:02:06.249Z",
+     "format": "dlp",
+     "meta": {
+      "sections": 19,
+      "figures": 18,
+      "quiz": 15,
+      "glossary": 20,
+      "cases": 3,
+      "pages": 18
+     }
+    }
+   ]
   }
  ]
 }
