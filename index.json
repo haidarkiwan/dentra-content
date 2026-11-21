@@ -1,6 +1,6 @@
 {
- "version": 20,
- "updatedAt": "2026-11-21T00:02:22.407Z",
+ "version": 21,
+ "updatedAt": "2026-11-21T00:07:46.738Z",
  "courses": [
   {
    "id": "c_863x58",
@@ -97,7 +97,7 @@
    "year": "الرابعة",
    "semester": "first",
    "order": 6,
-   "hidden": true,
+   "hidden": false,
    "lectures": [
     {
      "id": "l_dve9zcuu",
